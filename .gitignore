@@ -1,0 +1,11 @@
+venv/
+pipeenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.DS_Store
+runs/
+dataset/
+*.pt
