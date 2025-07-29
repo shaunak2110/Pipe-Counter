@@ -79,3 +79,11 @@ pipe_detector_release/
      "count": 100,
      "result_image_url": "/results/<filename>.jpg"
    }
+
+
+
+![Pipe Detection](https://github.com/shaunak2110/Pipe-Counter/raw/main/WhatsApp%20Image%202025-07-27%20at%2023.04.01_f6605c88.jpg)
+![Pipe Detection](https://github.com/shaunak2110/Pipe-Counter/raw/main/WhatsApp%20Image%202025-07-27%20at%2023.04.01_f660....jpeg)
+![Pipe Detection](https://github.com/shaunak2110/Pipe-Counter/raw/main/WhatsApp%20Image%202025-07-27%20at%2023.04.01_f660....jpeg)
+![Pipe Detection](https://github.com/shaunak2110/Pipe-Counter/raw/main/WhatsApp%20Image%202025-07-27%20at%2023.04.01_f660....jpeg)
+![Pipe Detection](https://github.com/shaunak2110/Pipe-Counter/raw/main/WhatsApp%20Image%202025-07-27%20at%2023.04.01_f660....jpeg)
